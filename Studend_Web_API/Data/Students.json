@@ -1,0 +1,103 @@
+{
+  "Tbl_Student": [
+    {
+      "Id": 1,
+      "Name": "မောင်မောင်အေး",
+      "Age": 18,
+      "Grade": "Grade 11",
+      "School": "အထက(၁) ဒဂုံ",
+      "Major": "သိပ္ပံ",
+      "Address": "ဒဂုံမြို့သစ်၊ ရန်ကုန်မြို့",
+      "Phone": "09-123456789",
+      "Email": "maungmaungaye@gmail.com"
+    },
+    {
+      "Id": 2,
+      "Name": "နှင်းနှင်းထွေး",
+      "Age": 17,
+      "Grade": "Grade 10",
+      "School": "အထက(၂) လှိုင်သာယာ",
+      "Major": "အနုပညာ",
+      "Address": "လှိုင်သာယာမြို့နယ်၊ ရန်ကုန်မြို့",
+      "Phone": "09-987654321",
+      "Email": "hninhntwe@gmail.com"
+    },
+    {
+      "Id": 3,
+      "Name": "ဇင်ဇင်လင်း",
+      "Age": 19,
+      "Grade": "Grade 12",
+      "School": "အထက(၃) ဗိုလ်တထောင်",
+      "Major": "သိပ္ပံ",
+      "Address": "ဗိုလ်တထောင်မြို့နယ်၊ ရန်ကုန်မြို့",
+      "Phone": "09-456123789",
+      "Email": "zinzinlin@gmail.com"
+    },
+    {
+      "Id": 4,
+      "Name": "ခိုင်ခိုင်ဝေ",
+      "Age": 16,
+      "Grade": "Grade 9",
+      "School": "အထက(၄) တောင်ဒဂုံ",
+      "Major": "စာပေ",
+      "Address": "တောင်ဒဂုံမြို့နယ်၊ ရန်ကုန်မြို့",
+      "Phone": "09-789456123",
+      "Email": "khaingkhaingwe@gmail.com"
+    },
+    {
+      "Id": 5,
+      "Name": "အောင်အောင်မျိုး",
+      "Age": 18,
+      "Grade": "Grade 11",
+      "School": "အထက(၁) မန္တလေး",
+      "Major": "သိပ္ပံ",
+      "Address": "ချမ်းအေးသာစံမြို့နယ်၊ မန္တလေးမြို့",
+      "Phone": "09-321654987",
+      "Email": "aungaungmyo@gmail.com"
+    },
+    {
+      "Id": 6,
+      "Name": "သဉ္ဇာဦး",
+      "Age": 17,
+      "Grade": "Grade 10",
+      "School": "အမက(၁) စမ်းချောင်း",
+      "Major": "အနုပညာ",
+      "Address": "စမ်းချောင်းမြို့နယ်၊ ရန်ကုန်မြို့",
+      "Phone": "09-654987321",
+      "Email": "thanzau@gmail.com"
+    },
+    {
+      "Id": 7,
+      "Name": "ဝင်းဝင်းကျော်",
+      "Age": 19,
+      "Grade": "Grade 12",
+      "School": "အထက(၂) မကွေး",
+      "Major": "သိပ္ပံ",
+      "Address": "မကွေးမြို့",
+      "Phone": "09-147258369",
+      "Email": "winwinkyaw@gmail.com"
+    },
+    {
+      "Id": 8,
+      "Name": "ပြည့်ဖြိုးအောင်",
+      "Age": 16,
+      "Grade": "Grade 9",
+      "School": "အထက(၁) ပဲခူး",
+      "Major": "စာပေ",
+      "Address": "ပဲခူးမြို့",
+      "Phone": "09-258369147",
+      "Email": "pyithpyoaung@gmail.com"
+    },
+    {
+      "Id": 9,
+      "Name": "အိအိမြတ်",
+      "Age": 17,
+      "Grade": "Grade 11",
+      "School": "အမက(၂) ပုသိမ်",
+      "Major": "အနုပညာ",
+      "Address": "ပုသိမ်မြို့",
+      "Phone": "09-369147258",
+      "Email": "eemyat@gmail.com"
+    }
+  ]
+}
